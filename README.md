@@ -1,1 +1,1 @@
-# Subarray-Division-ALGO
+# Subarray-Division-ALGO.This program counts how many ways a chocolate bar can be divided into m consecutive segments that sum up to d, representing a birthday memory. It uses a sliding window approach to efficiently check each possible segment of length m in the list s.
